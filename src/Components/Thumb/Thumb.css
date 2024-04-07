@@ -1,0 +1,15 @@
+.list-item {
+    display: flex;
+   align-content: center;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .thumbnail {
+    width: 70px;
+    height: 70px;
+    opacity: 0.7;
+    border-radius: 10px;
+  }
+  .active {
+    opacity: 1.5;
+  }
