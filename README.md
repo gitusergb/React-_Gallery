@@ -34,8 +34,12 @@
 - Used CSS Grid to create a responsive grid layout for the gallery.
 - Populate the gallery with instances of the ImageCard component.
 
+<details>
+<summary>
+
 ## Given Instructions :
 
+</summary>
 ### Setup
 
 1. Initialize a new React project using `create-react-app` or your preferred method.
@@ -65,10 +69,11 @@
 
 - Ensure that the navigation bar and gallery components are responsive.
 - Test the application on various screen sizes to ensure a seamless user experience.
+</details>
 
 ## Getting Started
 
-1. Clone the repository:`git clone [https://github.com/gitusergb]`
+1. Clone the repository:`git clone [https://github.com/gitusergb/React-_Gallery]`
 2. Install dependencies using `npm install`.
 3. Run the development server using `npm start`.
 
